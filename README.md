@@ -10,19 +10,19 @@ This project explores customer churn data to understand why customers leave and 
 
 -Handled missing values and formatted categorical/numerical features.
 
--Exploratory Data Analysis (EDA)
+2.Exploratory Data Analysis (EDA)
 
 -Visualized customer demographics, billing patterns, and service usage.
 
 -Identified key drivers of churn.
 
-2.Feature Engineering
+3.Feature Engineering
 
 -Encoded categorical variables.
 
 -Scaled numerical features.
 
-3.Machine Learning Model
+4.Machine Learning Model
 
 -Built and evaluated ML models to predict churn.
 
